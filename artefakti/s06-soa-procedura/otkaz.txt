@@ -1,0 +1,4 @@
+Wed Nov  4 10:40:24 AM EST 2026
+ls: cannot open directory '/srv/arhiv': Permission denied
+touch: cannot touch '/srv/arhiv/erp-test.txt': Permission denied
+rm: cannot remove '/srv/arhiv/test-admin.txt': Permission denied

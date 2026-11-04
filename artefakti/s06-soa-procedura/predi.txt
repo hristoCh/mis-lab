@@ -1,0 +1,3 @@
+Wed Nov  4 10:37:40 AM EST 2026
+stat: cannot statx '/srv/arhiv': No such file or directory
+id: ‘erp’: no such user

@@ -1,0 +1,4 @@
+Wed Nov  4 10:39:41 AM EST 2026
+drwxrws--- root:arhiv /srv/arhiv
+arhiv:x:1001:student
+uid=988(erp) gid=988(erp) groups=988(erp)
